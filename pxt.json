@@ -1,6 +1,6 @@
 {
-    "name": "KSRobot_IOT",
-    "version": "1.7.0",
+    "name": "KSRobot_IOT_Chungyi",
+    "version": "1.7.1",
     "description": "Extension for KAISE KSRobot IOT WIFI module",
     "license": "MIT",
     "dependencies": {
